@@ -8,6 +8,6 @@
 - peas
 - mushrooms
 - onions
-
+- water
 
 ## TODO: we need the instructions
